@@ -1,0 +1,9 @@
+G:\Projetos\Miranda\imgProfGallery\source\IPGN\QueryBuilder\QueryBuilder.Test\obj\Debug\QueryBuilder.Test.csprojResolveAssemblyReference.cache
+G:\Projetos\Miranda\imgProfGallery\source\IPGN\QueryBuilder\QueryBuilder.Test\bin\Debug\QueryBuilder.Test.dll
+G:\Projetos\Miranda\imgProfGallery\source\IPGN\QueryBuilder\QueryBuilder.Test\bin\Debug\QueryBuilder.Test.pdb
+G:\Projetos\Miranda\imgProfGallery\source\IPGN\QueryBuilder\QueryBuilder.Test\bin\Debug\nunit.framework.dll
+G:\Projetos\Miranda\imgProfGallery\source\IPGN\QueryBuilder\QueryBuilder.Test\bin\Debug\QueryBuilder.dll
+G:\Projetos\Miranda\imgProfGallery\source\IPGN\QueryBuilder\QueryBuilder.Test\bin\Debug\QueryBuilder.pdb
+G:\Projetos\Miranda\imgProfGallery\source\IPGN\QueryBuilder\QueryBuilder.Test\bin\Debug\nunit.framework.xml
+G:\Projetos\Miranda\imgProfGallery\source\IPGN\QueryBuilder\QueryBuilder.Test\obj\Debug\QueryBuilder.Test.dll
+G:\Projetos\Miranda\imgProfGallery\source\IPGN\QueryBuilder\QueryBuilder.Test\obj\Debug\QueryBuilder.Test.pdb

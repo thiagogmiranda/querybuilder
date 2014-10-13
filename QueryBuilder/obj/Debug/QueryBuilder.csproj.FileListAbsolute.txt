@@ -1,0 +1,5 @@
+G:\Projetos\Miranda\imgProfGallery\source\IPGN\QueryBuilder\QueryBuilder\bin\Debug\QueryBuilder.dll
+G:\Projetos\Miranda\imgProfGallery\source\IPGN\QueryBuilder\QueryBuilder\bin\Debug\QueryBuilder.pdb
+G:\Projetos\Miranda\imgProfGallery\source\IPGN\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.csprojResolveAssemblyReference.cache
+G:\Projetos\Miranda\imgProfGallery\source\IPGN\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.dll
+G:\Projetos\Miranda\imgProfGallery\source\IPGN\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.pdb
